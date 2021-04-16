@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:Transaction xmlns:ns2="http://fsp.ohim.eu/XMLSchema">
+    <TradeMarkTransactionBody>
+        <TransactionContentDetails>
+            <TransactionCode>Trade Mark E-Filing</TransactionCode>
+            <TransactionSubCode>Normal</TransactionSubCode>
+            <TransactionData>
+                <TradeMarkApplication>
+                    <TradeMarkDetails>
+                        <TradeMark>
+                            <RegistrationOfficeCode>EM</RegistrationOfficeCode>
+                            <ReceivingOfficeCode>EM</ReceivingOfficeCode>
+                            <ApplicationLanguageCode>en</ApplicationLanguageCode>
+                            <CorrespondenceLanguageCode>en</CorrespondenceLanguageCode>
+                            <MarkCurrentStatusCode></MarkCurrentStatusCode>
+                            <KindMark>Certification</KindMark>
+                            <MarkFeature>Word</MarkFeature>
+                            <TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+                            <WordMarkSpecification>
+<MarkVerbalElementText languageCode="en">TRADEMARK TWO</MarkVerbalElementText>
+                            </WordMarkSpecification>
+                            <MarkImageDetails>
+<MarkImage>
+    <MarkImageColourIndicator>false</MarkImageColourIndicator>
+    <MarkImageColourDetails>
+        <Colour/>
+    </MarkImageColourDetails>
+</MarkImage>
+                            </MarkImageDetails>
+                            <GoodsServicesDetails>
+<GoodsServices>
+    <ClassDescriptionDetails>
+        <ClassDescription>
+            <ClassNumber>9</ClassNumber>
+            <ClassificationTermDetails>
+                <ClassificationTerm>
+                    <ClassificationTermText>scientific</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>research</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>navigation</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>surveying</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>photographic</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>cinematographic</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>audiovisual</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>optical</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>weighing</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>measuring</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>signalling</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>detecting</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>testing</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>inspecting</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>life saving and teaching apparatus and instruments</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>Apparatus and instruments for conducting</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>switching</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>transforming</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>accumulating</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>regulating or controlling the distribution or use of electricity</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>Apparatus and instruments for recording</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>transmitting</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>reproducing or processing sound</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>images or data</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>Recorded and downloadable media</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>computer software</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>blank digital or analogue recording and storage media</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>Mechanisms for coin operated apparatus</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>Cash registers</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>calculating devices</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>Computers and computer peripheral devices</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>Diving suits</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>divers masks</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>ear plugs for divers</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>nose clips for divers and swimmers</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>gloves for divers</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>breathing apparatus for underwater swimming</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTerm>
+                    <ClassificationTermText>Fire extinguishing apparatus</ClassificationTermText>
+                </ClassificationTerm>
+                <ClassificationTermLanguageCode>en</ClassificationTermLanguageCode>
+            </ClassificationTermDetails>
+            <FullClassCoverageIndicator>false</FullClassCoverageIndicator>
+        </ClassDescription>
+    </ClassDescriptionDetails>
+</GoodsServices>
+                            </GoodsServicesDetails>
+                            <ApplicantDetails>
+<Applicant>
+    <ApplicantIdentifier identifierKindCode="Company Number">UK-987654321-2</ApplicantIdentifier>
+    <ApplicantIdentifier identifierKindCode="VAT Number"></ApplicantIdentifier>
+    <ApplicantIdentifier identifierKindCode="Tax Office"></ApplicantIdentifier>
+    <ApplicantLegalEntity>Richard Jhonson</ApplicantLegalEntity>
+    <ApplicantIncorporationCountryCode>GB</ApplicantIncorporationCountryCode>
+    <ApplicantAddressBook>
+        <FormattedNameAddress>
+            <Name>
+                <FormattedName>
+                    <OrganizationName>Richard Jhonson</OrganizationName>
+                </FormattedName>
+                <NameKind>Legal Entity</NameKind>
+            </Name>
+            <Address>
+                <FormattedAddress>
+                    <AddressStreet>1 Chapel Hill - London</AddressStreet>
+                    <AddressCity>London</AddressCity>
+                    <AddressPostcode>A11 B12</AddressPostcode>
+                    <FormattedAddressCountryCode>GB</FormattedAddressCountryCode>
+                </FormattedAddress>
+            </Address>
+        </FormattedNameAddress>
+        <ContactInformationDetails>
+            <Phone phoneKind="Mobile Phone">+44 7911 123456</Phone>
+            <Fax>+44 7911 123456</Fax>
+            <Email>richardjhonson@hotmail.com</Email>
+            <URL>https://www.london.gov.uk/</URL>
+        </ContactInformationDetails>
+        <OtherIndicator>false</OtherIndicator>
+    </ApplicantAddressBook>
+    <ApplicantCorrespondenceAddressBook>
+        <FormattedNameAddress>
+            <Name>
+                <FreeFormatName>
+                    <FreeFormatNameDetails>
+                        <FreeFormatNameLine>Richard Jhonson</FreeFormatNameLine>
+                    </FreeFormatNameDetails>
+                </FreeFormatName>
+            </Name>
+            <Address>
+                <FormattedAddress>
+                    <AddressStreet>1 Chapel Hill - London</AddressStreet>
+                    <AddressCity>London</AddressCity>
+                    <AddressPostcode>A11 B12</AddressPostcode>
+                    <FormattedAddressCountryCode>GB</FormattedAddressCountryCode>
+                </FormattedAddress>
+            </Address>
+        </FormattedNameAddress>
+        <ContactInformationDetails>
+            <Phone phoneKind="Mobile Phone">+44 7911 123456</Phone>
+            <Phone phoneKind="Mobile Phone">+44 7911 123456</Phone>
+            <Email>richardjhonson@hotmail.com</Email>
+        </ContactInformationDetails>
+        <OtherIndicator>false</OtherIndicator>
+    </ApplicantCorrespondenceAddressBook>
+    <ApplicantIsOwner>false</ApplicantIsOwner>
+    <ConsentThirdParty>false</ConsentThirdParty>
+    <ConsentNationalRegistry>false</ConsentNationalRegistry>
+    <Original>false</Original>
+    <CurrentUserIndicator>false</CurrentUserIndicator>
+</Applicant>
+                            </ApplicantDetails>
+                            <OriginalUserDataApplicants/>
+                            <ApplicationCADetails/>
+                            <originalUserDataApplicationCAs/>
+                            <RepresentativeDetails>
+<Representative>
+    <RepresentativeKindCode>Lawyer</RepresentativeKindCode>
+    <RepresentativeNationalityCode>GB</RepresentativeNationalityCode>
+    <RepresentativeLegalEntity>Legal Entity</RepresentativeLegalEntity>
+    <RepresentativeAddressBook>
+        <FormattedNameAddress>
+            <Name>
+                <FormattedName>
+                    <OrganizationName>Angelinna Smith Feder</OrganizationName>
+                </FormattedName>
+                <NameKind>Legal Entity</NameKind>
+            </Name>
+            <Address>
+                <FormattedAddress>
+                    <AddressStreet>1 Fair Street - London</AddressStreet>
+                    <AddressCity>London</AddressCity>
+                    <AddressPostcode>Z05 Z52</AddressPostcode>
+                    <FormattedAddressCountryCode>GB</FormattedAddressCountryCode>
+                </FormattedAddress>
+            </Address>
+        </FormattedNameAddress>
+        <ContactInformationDetails>
+            <Phone>+44 7741 458963</Phone>
+            <Email>angelinnasmithfeder@hotmail.com</Email>
+            <URL>https://www.london.gov.uk/</URL>
+        </ContactInformationDetails>
+        <OtherIndicator>false</OtherIndicator>
+    </RepresentativeAddressBook>
+    <RepresentativeCorrespondenceAddressBook>
+        <FormattedNameAddress>
+            <Name>
+                <FreeFormatName>
+                    <FreeFormatNameDetails>
+                        <FreeFormatNameLine>Angelinna Smith Feder</FreeFormatNameLine>
+                    </FreeFormatNameDetails>
+                </FreeFormatName>
+            </Name>
+            <Address>
+                <FormattedAddress>
+                    <AddressStreet>542 Tratoria - London</AddressStreet>
+                    <AddressCity>London</AddressCity>
+                    <AddressPostcode>M95 M88</AddressPostcode>
+                    <FormattedAddressCountryCode>GB</FormattedAddressCountryCode>
+                </FormattedAddress>
+            </Address>
+        </FormattedNameAddress>
+        <ContactInformationDetails>
+            <Phone phoneKind="Mobile Phone">+44 4589 741852</Phone>
+            <Phone phoneKind="Mobile Phone">+44 4589 741852</Phone>
+            <Email>angelinnasmithfeder@hotmail.com</Email>
+        </ContactInformationDetails>
+        <OtherIndicator>false</OtherIndicator>
+    </RepresentativeCorrespondenceAddressBook>
+    <RepresentedPartyKindCode>Owner</RepresentedPartyKindCode>
+    <ConsentNationalRegistry>false</ConsentNationalRegistry>
+    <Original>false</Original>
+    <CurrentUserIndicator>false</CurrentUserIndicator>
+    <ConsentThirdParty>false</ConsentThirdParty>
+</Representative>
+                            </RepresentativeDetails>
+                            <originalUserDataRepresentatives/>
+                            <TradeMarkDocumentDetails>
+<TradeMarkDocument>
+    <DocumentName>ATT0002</DocumentName>
+    <DocumentURI>ATTACHMENTS/Richard_Supplementary.pdf</DocumentURI>
+    <DocumentFilename>Richard_Supplementary.pdf</DocumentFilename>
+    <DocumentFileFormat>application/pdf</DocumentFileFormat>
+    <Comment>A very nice Supplementary Descriptionb for the attachment</Comment>
+    <DocumentKind>Power Of Attorney</DocumentKind>
+    <DocumentIdentifier>974b165e-9ca5-4133-a8c0-c38871533017</DocumentIdentifier>
+</TradeMarkDocument>
+<TradeMarkDocument>
+    <DocumentName>ATT0005</DocumentName>
+    <DocumentURI>ATTACHMENTS/Receipt_TMeFiling_EFEM202100000015558.pdf</DocumentURI>
+    <DocumentFilename>Receipt_TMeFiling_EFEM202100000015558.pdf</DocumentFilename>
+    <DocumentFileFormat>application/pdf</DocumentFileFormat>
+    <DocumentKind>Application Receipt</DocumentKind>
+    <DocumentIdentifier>cf4a8abf-1657-439b-8c65-8926ff69af43</DocumentIdentifier>
+</TradeMarkDocument>
+                            </TradeMarkDocumentDetails>
+                            <NumberOfRenewals>0</NumberOfRenewals>
+                        </TradeMark>
+                    </TradeMarkDetails>
+                    <PaymentDetails>
+                        <Payment>
+                            <PayerName>
+<FormattedName/>
+                            </PayerName>
+                            <PaymentStatus>To follow</PaymentStatus>
+                            <PaymentFeeDetails>
+<PaymentFee>
+    <FeeReference>onlineAppDiscount</FeeReference>
+    <FeeAmount>-150.0</FeeAmount>
+</PaymentFee>
+<PaymentFee>
+    <FeeReference>certificationFee</FeeReference>
+    <FeeAmount>1800.0</FeeAmount>
+</PaymentFee>
+                            </PaymentFeeDetails>
+                            <PayerAddressBook>
+<FormattedNameAddress>
+    <Address>
+        <FormattedAddress/>
+    </Address>
+</FormattedNameAddress>
+<ContactInformationDetails/>
+<OtherIndicator>false</OtherIndicator>
+                            </PayerAddressBook>
+                            <PaymentDocument>
+<DocumentName>ATT0003</DocumentName>
+<DocumentURI>ATTACHMENTS/Richard_OFFLINE_PAYMENT.pdf</DocumentURI>
+<DocumentFilename>Richard_OFFLINE_PAYMENT.pdf</DocumentFilename>
+<DocumentFileFormat>application/pdf</DocumentFileFormat>
+<DocumentKind>Other Document</DocumentKind>
+<DocumentIdentifier>ca7d14ef-34c0-45a8-8a37-d4d145849d3a</DocumentIdentifier>
+                            </PaymentDocument>
+                        </Payment>
+                    </PaymentDetails>
+                    <SignatoryDetails>
+                        <Signatory>
+                            <SignatoryName>
+<FreeFormatName>
+    <FreeFormatNameDetails>
+        <FreeFormatNameLine>Richard Jhonson</FreeFormatNameLine>
+    </FreeFormatNameDetails>
+</FreeFormatName>
+                            </SignatoryName>
+                            <SignatoryCapacityCode>Applicant</SignatoryCapacityCode>
+                            <SignatoryEmail>richardjhonson@hotmail.com</SignatoryEmail>
+                        </Signatory>
+                    </SignatoryDetails>
+                    <ApplicationFilingNumber>EFEM202100000015558</ApplicationFilingNumber>
+                </TradeMarkApplication>
+            </TransactionData>
+            <UserPersonDetails/>
+        </TransactionContentDetails>
+    </TradeMarkTransactionBody>
+</ns2:Transaction>
